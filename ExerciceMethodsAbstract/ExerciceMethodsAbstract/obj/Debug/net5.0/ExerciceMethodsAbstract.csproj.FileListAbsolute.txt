@@ -1,0 +1,16 @@
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\ExerciceMethodsAbstract\ExerciceMethodsAbstract\bin\Debug\net5.0\ExerciceMethodsAbstract.exe
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\ExerciceMethodsAbstract\ExerciceMethodsAbstract\bin\Debug\net5.0\ExerciceMethodsAbstract.deps.json
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\ExerciceMethodsAbstract\ExerciceMethodsAbstract\bin\Debug\net5.0\ExerciceMethodsAbstract.runtimeconfig.json
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\ExerciceMethodsAbstract\ExerciceMethodsAbstract\bin\Debug\net5.0\ExerciceMethodsAbstract.runtimeconfig.dev.json
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\ExerciceMethodsAbstract\ExerciceMethodsAbstract\bin\Debug\net5.0\ExerciceMethodsAbstract.dll
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\ExerciceMethodsAbstract\ExerciceMethodsAbstract\bin\Debug\net5.0\ExerciceMethodsAbstract.pdb
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\ExerciceMethodsAbstract\ExerciceMethodsAbstract\obj\Debug\net5.0\ExerciceMethodsAbstract.csproj.AssemblyReference.cache
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\ExerciceMethodsAbstract\ExerciceMethodsAbstract\obj\Debug\net5.0\ExerciceMethodsAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\ExerciceMethodsAbstract\ExerciceMethodsAbstract\obj\Debug\net5.0\ExerciceMethodsAbstract.AssemblyInfoInputs.cache
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\ExerciceMethodsAbstract\ExerciceMethodsAbstract\obj\Debug\net5.0\ExerciceMethodsAbstract.AssemblyInfo.cs
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\ExerciceMethodsAbstract\ExerciceMethodsAbstract\obj\Debug\net5.0\ExerciceMethodsAbstract.csproj.CoreCompileInputs.cache
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\ExerciceMethodsAbstract\ExerciceMethodsAbstract\obj\Debug\net5.0\ExerciceMethodsAbstract.dll
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\ExerciceMethodsAbstract\ExerciceMethodsAbstract\obj\Debug\net5.0\refint\ExerciceMethodsAbstract.dll
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\ExerciceMethodsAbstract\ExerciceMethodsAbstract\obj\Debug\net5.0\ExerciceMethodsAbstract.pdb
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\ExerciceMethodsAbstract\ExerciceMethodsAbstract\obj\Debug\net5.0\ExerciceMethodsAbstract.genruntimeconfig.cache
+C:\Users\Tulio\Documents\Cursos\Programaçao\Estudos - Anotaçoes das Aulas\C# completo\ExerciceMethodsAbstract\ExerciceMethodsAbstract\obj\Debug\net5.0\ref\ExerciceMethodsAbstract.dll
